@@ -10,7 +10,7 @@
  
 source /etc/rc.d/init.d/functions
  
-KAFKA_HOME=/home/kafka-0.7.2-incubating-src/
+KAFKA_HOME=/home/ec2-user/kafka-0.7.2-incubating-src/
 KAFKA_USER=root
 # See how we were called.
 case "$1" in
